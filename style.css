@@ -1,0 +1,291 @@
+#search-form_3{
+    
+    text-align: center;
+}
+.image{
+        text-align: left;
+        width: 150px;
+        position: absolute;
+        top: 0px;
+        left: 30px;
+    }
+ .link{
+       position: absolute;
+       top: 0px;
+        right: 30px;
+    }
+.main_img{ 
+    position: relative;
+    width: 1440px;
+    height: 480px;
+    z-index: 0;
+}
+
+.text_on_main_img {z-index: 1;
+    position: absolute;
+   top: 250px;
+   left: 150px;
+   width: 378;
+   font-weight: bold;
+   font-size: 42px;
+   line-height: 47px;
+   color: #ffffff;
+   font-family: 'IBM Plex Sans', sans-serif;
+}
+.small_text_on_main_img{
+    z-index: 1;
+    position: absolute;
+   top: 302px;
+   left: 170px;  
+   font-family: 'IBM Plex Sans', sans-serif;
+   color: #ffffff;
+   width: 200;
+}
+.navbar-nav{
+    position:absolute;
+    left: 200px;
+    top: 20px;
+    
+
+}
+.nav-link{
+    height:21px;
+    font-family:'IBM Plex Sans', sans-serif;
+    color: black;
+    font-weight: bold;
+}
+.nav-link:hover{
+    text-decoration:underline;
+}
+.nav-link-button{
+        -moz-box-shadow:inset 0px 1px 3px 0px #2b665e;
+        -webkit-box-shadow:inset 0px 1px 3px 0px #2b665e;
+        box-shadow:inset 0px 1px 3px 0px #2b665e;
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #768d87), color-stop(1, #6c7c7c) );
+        background:-moz-linear-gradient( center top, #768d87 5%, #6c7c7c 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#768d87', endColorstr='#6c7c7c');
+        background-color:#768d87;
+        -webkit-border-top-left-radius:5px;
+        -moz-border-radius-topleft:5px;
+        border-top-left-radius:5px;
+        -webkit-border-top-right-radius:5px;
+        -moz-border-radius-topright:5px;
+        border-top-right-radius:5px;
+        -webkit-border-bottom-right-radius:5px;
+        -moz-border-radius-bottomright:5px;
+        border-bottom-right-radius:5px;
+        -webkit-border-bottom-left-radius:5px;
+        -moz-border-radius-bottomleft:5px;
+        border-bottom-left-radius:5px;
+    text-indent:0;
+        border:1px solid #566963;
+        display:inline-block;
+        color:#ffffff;
+        font-family:'IBM Plex Sans', sans-serif;
+        font-size:15px;
+        font-weight:bold;
+        font-style:normal;
+    height:40px;
+        line-height:50px;
+    width:140px;
+        text-decoration:none;
+        text-align:center;
+        text-shadow:0px -1px 0px #528ecc;
+    }.nav-link-button:hover {
+        background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #6c7c7c), color-stop(1, #768d87) );
+        background:-moz-linear-gradient( center top, #6c7c7c 5%, #768d87 100% );
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#6c7c7c', endColorstr='#768d87');
+        background-color:#6c7c7c;
+    }.nav-link-button:active {
+        position:relative;
+        top:1px;
+
+}
+.nav-button-group{ 
+    padding-left: 20px;
+    width: 10px;
+    
+}
+.nav-button-post{
+    position: relative;
+    padding-left: 300px;
+}
+.middle-container1{
+    position: relative;
+    top: 65px;
+    left: 204px;
+    border: 1.5px solid #e0e0e0;
+    border-radius: 4px;
+    width: 612px;
+    
+}
+.middle-container1-img{
+    width:610px;
+    height: 180px;
+}
+.article{
+    position:relative;
+    font-family: "IBM plex sans";
+    font-weight: 500;
+    left: 20px;
+    top: 15px;
+    height:25;
+    width:100px;
+    font-size: 15px;
+    font-style: normal;
+    margin-bottom: 25px;
+
+}
+.article-brief{ 
+    padding-left:20px;
+    font-family: "IBM plex sans";
+    font-weight: bold;
+    top: 40px;
+    margin-bottom:10px;
+
+  
+}
+.article-exp{
+    padding-left: 20px;
+    font-family: "IBM plex sans";
+    font-weight: normal;
+    color: #5c5c5c;
+    
+}
+.article-writer{
+    margin-left:20px;
+    margin-right: 0px;
+
+    
+}
+.article-img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right:10px ;
+    
+}
+.article-writer-name{
+    font-weight: bold;
+    font-family: "IBM plex sans";
+}
+.article-view{
+    position: absolute;
+margin-left: 400px;
+margin-bottom: 0px;
+}
+.share-icon{
+    padding-left: 10px;
+}
+.middle-container2{
+    position: relative;
+    top: 65px;
+    left: 204px;
+    border: 1.5px solid #e0e0e0;
+    border-radius: 4px;
+    width: 612px;
+    margin-top: 10px;
+
+}
+.middle-container3{
+    position: relative;
+    top: 65px;
+    left: 204px;
+    border: 1.5px solid #e0e0e0;
+    border-radius: 4px;
+    width: 612px;
+    margin-top: 10px;
+}
+.middle-container4{
+    position: relative;
+    top: 65px;
+    left: 204px;
+    border: 1.5px solid #e0e0e0;
+    border-radius: 4px;
+    width: 612px;
+    margin-top: 10px;
+
+}
+.middle-container5{
+    position: relative;
+    top: 65px;
+    left: 204px;
+    border: 1.5px solid #e0e0e0;
+    border-radius: 4px;
+    width: 612px;
+    margin-top: 10px;
+}
+.article-img2{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right:10px ;
+}
+.article-img3{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right:10px ;
+}
+@media only screen and (max-width: 600px) {
+    div.top-container {
+      display: none;
+    }
+  }
+  .article-date{
+    
+    font-family: "IBM plex sans";
+    font-weight: 500;
+    font-size: 15px;
+    padding-left: 20px;
+    margin-right: 70px;
+    
+    
+  }
+  .arti-location{
+    font-family: "IBM plex sans";
+    font-weight: 500;
+    font-size: 15px;
+
+  }
+  
+  
+  .link1{
+      position: relative;
+      border: 0.7px solid #a9aeb8;
+      border-radius: 8px;
+      width: 570px;
+      margin-left: 20px;
+      height: 34px;
+      margin-bottom: 20px;
+
+
+  }
+  .button-link2{
+      padding-top: 4px;
+      color: #02b875;
+      font-family: "IBM plex sans";
+      font-weight:bolder;
+      font-size: 15px;
+
+  }
+  .link1:hover{
+      background-color: #dee3e2;
+  }
+  .article-detail{
+      padding-left: 20px;
+      font-family: "IBM plex sans";
+    font-weight: 500;
+    font-size: 15px;
+   
+  }
+  .button-link{
+    padding-top: 4px;
+    color: #e56135;
+    font-family: "IBM plex sans";
+    font-weight:bolder;
+    font-size: 15px;
+
+  }
+  
+  
